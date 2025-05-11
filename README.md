@@ -3,8 +3,11 @@
 I'm an aspiring **Frontend Developer** and **UI/UX Designer** with a passion for building interactive, engaging, and meaningful digital experiences. I love turning ideas into visually compelling and user-friendly web interfaces that connect with people.
 
 ## 🚀 About Me
-- 🔭 Currently diving deep into **React**, **Tailwind CSS**, and **TypeScript**
+- 🔭 Currently learning **React**, **TypeScript**, and **UI/UX Design Systems**
 - 🌱 Exploring the intersections of **UX**, **design thinking**, and **frontend development**
+- 🎨 Passionate about **Branding**, **Visual Identity**, and **UI/UX Design**
+- 📖 Dedicated Bible Teacher—connecting creative concepts to biblical truth
+- 🧩 Passionate about building intuitive, accessible, and scalable products
 - 🤝 Passionate about **collaboration**, **clean code**, and **continuous learning**
 - 🎯 Aspiring to grow into full-stack roles and contribute to impactful software solutions
 
