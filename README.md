@@ -27,11 +27,6 @@ I'm an aspiring **Frontend Developer** and **UI/UX Designer** with a passion for
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-![David Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 🧠 Fun Fact
 > "Design is intelligence made visible."
 
